@@ -16,7 +16,7 @@
 
 - 🤝 Também faço parte em **StarPoc Games**
 
-- 👨‍💻 Toda a minha carreira está disponível em [https://github.com/jairrogerr](https://github.com/jairrogerr)
+<!--- 👨‍💻 Toda a minha carreira está disponível em [https://github.com/jairrogerr](https://github.com/jairrogerr)-->
 
 - 📫 Como entrar em contato comigo: **jairrogerpereiradsilva@gmail.com**
 
