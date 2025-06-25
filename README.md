@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairrogerr&label=Profile%20views&color=0e75b6&style=flat" alt="jairrogerr" /> </p>
 
-- 🔭 Atualmente estou trabalhando no [Projeto Germinah](https://github.com/jairrogerr/Germinah), na [Promoven](https://github.com/jairrogerr/Promoven) e também na [Arianni.ai](https://github.com/jairrogerr/Arianni.ai)!
+- 🔭 Atualmente estou trabalhando no [Projeto Germinah](https://github.com/jairrogerr/Germinah)!
 
 - 🌱 Estou atualmente estudando **Python, React e Next.js**
 
