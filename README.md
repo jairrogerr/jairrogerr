@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋!! Eu sou Jair Roger!</h1>
 <h3 align="center">Um programador autodidata que desde os 11 anos de idade é apaixonado pelo mundo da tecnologia!</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto [Promoven One](https://github.com/jairrogerr/Promoven)
+- 🔭 Atualmente estou trabalhando no projeto [Promoven One](https://github.com/jairrogerr/Promoven-One)
 
 - 🌱 Atualmente estou aprendendo **Node.js, React.js, TypeScript e Python!**
 
-- 🤝 Também estou colaborando com o projeto [Moonspace](https://github.com/tellesdaxten/Moonspace)
+- 🤝 Também estou atuando no projeto [Moonspace](https://github.com/jairrogerr/Moonspace)
 
 - 📫 Entre em contato comigo pelo meu e-mail **jairrogersilva@gmail.com**
 
